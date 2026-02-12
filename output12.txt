@@ -1,0 +1,8 @@
+PS C:\Users\LOQ\Desktop\DSA 100 DAYS> cd 'c:\Users\LOQ\Desktop\DSA 100 DAYS\output'
+PS C:\Users\LOQ\Desktop\DSA 100 DAYS\output> & .\'day12.exe'
+3 3
+1 2 3
+2 4 5
+3 5 6
+Symmetric Matrix
+PS C:\Users\LOQ\Desktop\DSA 100 DAYS\output> 
