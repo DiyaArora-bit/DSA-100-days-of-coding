@@ -1,0 +1,7 @@
+PS C:\Users\LOQ\Desktop\DSA 100 DAYS> cd 'c:\Users\LOQ\Desktop\DSA 100 DAYS\output'
+PS C:\Users\LOQ\Desktop\DSA 100 DAYS\output> & .\'day17.exe'
+6
+3 5 1 9 2 8
+Maximum: 9
+Minimum: 1
+PS C:\Users\LOQ\Desktop\DSA 100 DAYS\output> 
