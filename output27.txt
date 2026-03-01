@@ -1,0 +1,8 @@
+PS C:\Users\LOQ\Desktop\DSA 100 DAYS> cd 'c:\Users\LOQ\Desktop\DSA 100 DAYS\output'
+PS C:\Users\LOQ\Desktop\DSA 100 DAYS\output> & .\'day27.exe'
+5 
+10 20 30 40 50
+4
+15 25 30 40 50
+30
+PS C:\Users\LOQ\Desktop\DSA 100 DAYS\output> 
