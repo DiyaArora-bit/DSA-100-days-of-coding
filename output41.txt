@@ -1,0 +1,12 @@
+PS C:\Users\LOQ\Desktop\DSA 100 DAYS> cd 'c:\Users\LOQ\Desktop\DSA 100 DAYS\output'
+PS C:\Users\LOQ\Desktop\DSA 100 DAYS\output> & .\'day41.exe'
+5
+enqueue 10
+enqueue 20
+dequeue
+10
+dequeue
+20
+dequeue
+-1
+PS C:\Users\LOQ\Desktop\DSA 100 DAYS\output> 

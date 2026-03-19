@@ -1,0 +1,13 @@
+PS C:\Users\LOQ\Desktop\DSA 100 DAYS> cd 'c:\Users\LOQ\Desktop\DSA 100 DAYS\output'
+PS C:\Users\LOQ\Desktop\DSA 100 DAYS\output> & .\'day38.exe'
+6
+insert 40
+insert 10
+insert 30
+peek
+10
+extractMin
+10
+peek
+30
+PS C:\Users\LOQ\Desktop\DSA 100 DAYS\output> 
