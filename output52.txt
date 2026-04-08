@@ -1,0 +1,5 @@
+PS C:\Users\asus\OneDrive\Desktop\assignments\DSA 100 DAYS\DSA 100 DAYS\output> & .\'day52.exe'
+7 
+1 2 3 4 5 6 7
+4 5
+2
