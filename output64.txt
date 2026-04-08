@@ -1,0 +1,10 @@
+PS C:\Users\asus\OneDrive\Desktop\assignments\DSA 100 DAYS\DSA 100 DAYS\output> & .\'day64.exe'
+5 4
+0 1
+0 2
+1 3
+1 4
+0
+0 1 2 3 4 
+PS C:\Users\asus\OneDrive\Desktop\assignments\DSA 100 DAYS\DSA 100 DAYS\output> 
+

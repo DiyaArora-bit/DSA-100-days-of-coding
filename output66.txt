@@ -1,0 +1,11 @@
+PS C:\Users\asus\OneDrive\Desktop\assignments\DSA 100 DAYS\DSA 100 DAYS\output> & .\'day66.exe'
+4 4
+0 1
+1 2
+2 3
+3 1
+YES
+PS C:\Users\asus\OneDrive\Desktop\assignments\DSA 100 DAYS\DSA 100 DAYS\output> 
+
+
+

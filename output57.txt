@@ -1,0 +1,7 @@
+PS C:\Users\asus\OneDrive\Desktop\assignments\DSA 100 DAYS\DSA 100 DAYS\output> & .\'day57.exe'
+7
+1 2 3 4 5 6 7
+7 3 6 1 5 2 4 
+PS C:\Users\asus\OneDrive\Desktop\assignments\DSA 100 DAYS\DSA 100 DAYS\output> 
+
+
